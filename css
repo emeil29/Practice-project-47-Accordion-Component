@@ -1,0 +1,19 @@
+.content{
+    display: none;
+    padding: 20px;
+    font-size: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.main{
+    font-size: 1.2rem;
+    background-color: rgb(206, 206, 217);
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 10px;
+    padding:15px;
+}
+.active{
+ display: block;
+ 
+}
